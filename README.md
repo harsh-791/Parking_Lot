@@ -2,6 +2,9 @@
 
 A simple, production-style Parking Lot system demonstrating SOLID principles and the Strategy pattern for spot allocation. The project keeps all Java sources in the repository root (no packages), per requirement.
 
+## 📊 UML Class Diagram
+<img width="1829" height="898" alt="Screenshot from 2025-09-24 14-11-35" src="https://github.com/user-attachments/assets/e3aee4aa-4839-4d28-a79a-9f70d1aa6075" />
+
 ## Features
 
 - Vehicle types: `BIKE`, `CAR`, `LARGE_VH`
